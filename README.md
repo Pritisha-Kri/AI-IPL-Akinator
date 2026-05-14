@@ -1,36 +1,190 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏏 IPL Akinator AI
 
-## Getting Started
+An intelligent IPL-themed Akinator web app that guesses the IPL cricketer you're thinking of using dynamic questioning, smart filtering, and AI-inspired decision logic.
 
-First, run the development server:
+Built for hackathons with a modern animated UI, responsive design, and fast interactive gameplay.
+
+---
+
+# ✨ Features
+
+- 🎯 Smart IPL Player Guessing Engine
+- 🧠 Dynamic Question-Based Decision System
+- ⚡ Fast Candidate Elimination Logic
+- 🎨 Beautiful Animated UI
+- 📱 Fully Responsive Design
+- 🏟️ IPL Stadium Fantasy Theme
+- ✨ Smooth Framer Motion Animations
+- 🧩 Modern Glassmorphism Interface
+- 🏏 Large IPL Player Dataset
+- 🚀 Built with Next.js + Tailwind CSS
+
+---
+
+# 🖼️ Preview
+
+## Home Screen
+- Animated IPL fantasy background
+- Interactive mascot-style experience
+- Smooth transitions and glowing UI
+
+## Gameplay
+- Dynamic cricket-related questions
+- Smart answer tracking
+- AI-like player prediction system
+
+## Final Guess
+- Dramatic animated reveal
+- Confidence-based prediction logic
+
+---
+
+# 🛠️ Tech Stack
+
+- **Frontend:** Next.js 15
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Language:** TypeScript
+- **State Management:** React Hooks
+- **Data Handling:** JSON Dataset
+- **Deployment:** Vercel
+
+---
+
+# 📂 Project Structure
+
+```bash
+├── app/
+│   ├── api/
+│   ├── game/
+│   └── page.tsx
+│
+├── components/
+│   ├── ui/
+│   ├── mascot/
+│   └── animations/
+│
+├── lib/
+│   ├── players.json
+│   ├── dynamicQuestions.ts
+│   └── gameEngine.ts
+│
+├── public/
+│   └── assets/
+│
+└── styles/
+```
+
+---
+
+# ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPO_LINK
+```
+
+Navigate to the project folder:
+
+```bash
+cd IPL-Akinator
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# 🚀 Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This project is optimized for deployment on:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ▲ Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deploy instantly:
 
-## Deploy on Vercel
+1. Push project to GitHub
+2. Import repository into Vercel
+3. Click Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 🧠 How It Works
+
+The app uses:
+
+- Dynamic question selection
+- Candidate filtering
+- Score-based elimination
+- Confidence matching
+- Progressive narrowing logic
+
+to identify the most probable IPL player from user responses.
+
+---
+
+# 🎨 UI Highlights
+
+- Stadium-inspired immersive background
+- Neon glow effects
+- Animated cards and transitions
+- Interactive buttons
+- Mobile-first responsive layout
+- Akinator-inspired gameplay experience
+
+---
+
+# 📈 Future Improvements
+
+- Voice-based gameplay
+- Multiplayer mode
+- Leaderboard system
+- AI-generated questions
+- IPL season updates
+- Player image generation
+- Live statistics integration
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+Fork the repository and submit a pull request.
+
+---
+
+# 📜 License
+
+This project is for educational and hackathon purposes.
+
+---
+
+# 👩‍💻 Developer
+
+Made with ❤️ by Pritisha Kumari
+
+- GitHub: https://github.com/Pritisha-Kri
+- LinkedIn: https://www.linkedin.com/in/pritisha-kumari-7a2999293/
+
+---
+
+# ⭐ Support
+
+If you liked this project, give it a ⭐ on GitHub.
