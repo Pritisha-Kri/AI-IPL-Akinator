@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-05-14T11:06:05.961Z",
+    "actualPlayer": "Sai Sudarshan",
+    "guessedPlayer": "Sai Sudharsan",
+    "wasCorrect": false,
+    "answerHistory": [
+      {
+        "question": "Is your player Indian?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Has your player played more than 10 IPL seasons?",
+        "answer": "No"
+      },
+      {
+        "question": "Does your player have a Long (8+ seasons) IPL career?",
+        "answer": "No"
+      },
+      {
+        "question": "Does your player bat Right-hand?",
+        "answer": "No"
+      },
+      {
+        "question": "Has your player ever played for RCB?",
+        "answer": "No"
+      },
+      {
+        "question": "Is your player primarily a Batsman?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Has your player ever played for RR?",
+        "answer": "No"
+      },
+      {
+        "question": "Has your player ever played for MI?",
+        "answer": "No"
+      },
+      {
+        "question": "Has your player ever played for CSK?",
+        "answer": "No"
+      },
+      {
+        "question": "Has your player ever played for RPS?",
+        "answer": "No"
+      }
+    ]
+  }
+]
