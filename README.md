@@ -237,16 +237,30 @@ This project is created for educational and hackathon purposes.
 
 ---
 
-# 👩‍💻 Developer
+# 👩‍💻 Team Members
 
-## :contentReference[oaicite:0]{index=0}
+<div align="center">
 
-### 🔗 Connect With Me
+| Name | Role | GitHub |
+|------|------|------|
+| Pritisha Kumari | Developer | [GitHub](https://github.com/Pritisha-Kri) |
+| Utsarg Kumar Tiwary | Developer | [GitHub](https://github.com/utsarg-tiw2) |
+| Praveen Kumar Mishra | Developer | [GitHub](https://github.com/iamvasisth) |
+| Rahul Kumar | Developer | [GitHub](https://github.com/kumarrahul001) |
 
-- 💻 [GitHub Profile](https://github.com/Pritisha-Kri?utm_source=chatgpt.com)
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/pritisha-kumari-7a2999293/?utm_source=chatgpt.com)
+</div>
 
 ---
+
+# 🤝 Contributors
+
+Thanks to all contributors who helped build this IPL Akinator project for hackathons and interactive AI gameplay experience.
+
+<div align="center">
+
+### 🚀 Built with teamwork, creativity, and lots of cricket discussions 🏏
+
+</div>
 
 <div align="center">
 
